@@ -1,0 +1,7 @@
+{
+  "name": "滕王阁序互动教学系统",
+  "description": "一个专为《滕王阁序》设计的交互式语文教学平台，包含全文赏析、典故详解、AI辅助释义及美学意境探索。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
